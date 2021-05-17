@@ -1,0 +1,67 @@
+C:\Users\eisze\source\repos\MedClinic\bin\Debug\MedClinic.exe.config
+C:\Users\eisze\source\repos\MedClinic\bin\Debug\MedClinic.exe
+C:\Users\eisze\source\repos\MedClinic\bin\Debug\MedClinic.pdb
+C:\Users\eisze\source\repos\MedClinic\obj\Debug\MedClinic.csprojAssemblyReference.cache
+C:\Users\eisze\source\repos\MedClinic\obj\Debug\MainWindow.g.cs
+C:\Users\eisze\source\repos\MedClinic\obj\Debug\App.g.cs
+C:\Users\eisze\source\repos\MedClinic\obj\Debug\MedClinic_MarkupCompile.cache
+C:\Users\eisze\source\repos\MedClinic\obj\Debug\MedClinic_MarkupCompile.lref
+C:\Users\eisze\source\repos\MedClinic\obj\Debug\MainWindow.baml
+C:\Users\eisze\source\repos\MedClinic\obj\Debug\MedClinic.g.resources
+C:\Users\eisze\source\repos\MedClinic\obj\Debug\MedClinic.Properties.Resources.resources
+C:\Users\eisze\source\repos\MedClinic\obj\Debug\MedClinic.csproj.GenerateResource.cache
+C:\Users\eisze\source\repos\MedClinic\obj\Debug\MedClinic.csproj.CoreCompileInputs.cache
+C:\Users\eisze\source\repos\MedClinic\obj\Debug\MedClinic.exe
+C:\Users\eisze\source\repos\MedClinic\obj\Debug\MedClinic.pdb
+C:\Users\eisze\source\repos\MedClinic\obj\Debug\Win\RegDesk.g.cs
+C:\Users\eisze\source\repos\MedClinic\obj\Debug\Win\RegDesk.baml
+C:\Users\eisze\source\repos\MedClinic\obj\Debug\Win\Pages\Appointment.g.cs
+C:\Users\eisze\source\repos\MedClinic\obj\Debug\Win\Pages\Appointment.baml
+C:\Users\eisze\source\repos\MedClinic\obj\Debug\Win\Pages\DocSchedule.g.cs
+C:\Users\eisze\source\repos\MedClinic\obj\Debug\Win\Pages\DocSchedule.baml
+C:\Users\muhin\Downloads\MedClinic_01\MedClinic\bin\Debug\MedClinic.exe.config
+C:\Users\muhin\Downloads\MedClinic_01\MedClinic\bin\Debug\MedClinic.exe
+C:\Users\muhin\Downloads\MedClinic_01\MedClinic\bin\Debug\MedClinic.pdb
+C:\Users\muhin\Downloads\MedClinic_01\MedClinic\obj\Debug\MedClinic.csprojAssemblyReference.cache
+C:\Users\muhin\Downloads\MedClinic_01\MedClinic\obj\Debug\MainWindow.g.cs
+C:\Users\muhin\Downloads\MedClinic_01\MedClinic\obj\Debug\Win\Pages\Appointment.g.cs
+C:\Users\muhin\Downloads\MedClinic_01\MedClinic\obj\Debug\Win\Pages\DocSchedule.g.cs
+C:\Users\muhin\Downloads\MedClinic_01\MedClinic\obj\Debug\Win\RegDesk.g.cs
+C:\Users\muhin\Downloads\MedClinic_01\MedClinic\obj\Debug\App.g.cs
+C:\Users\muhin\Downloads\MedClinic_01\MedClinic\obj\Debug\MedClinic_MarkupCompile.cache
+C:\Users\muhin\Downloads\MedClinic_01\MedClinic\obj\Debug\MedClinic_MarkupCompile.lref
+C:\Users\muhin\Downloads\MedClinic_01\MedClinic\obj\Debug\MainWindow.baml
+C:\Users\muhin\Downloads\MedClinic_01\MedClinic\obj\Debug\Win\Pages\Appointment.baml
+C:\Users\muhin\Downloads\MedClinic_01\MedClinic\obj\Debug\Win\Pages\DocSchedule.baml
+C:\Users\muhin\Downloads\MedClinic_01\MedClinic\obj\Debug\Win\RegDesk.baml
+C:\Users\muhin\Downloads\MedClinic_01\MedClinic\obj\Debug\MedClinic.g.resources
+C:\Users\muhin\Downloads\MedClinic_01\MedClinic\obj\Debug\MedClinic.Properties.Resources.resources
+C:\Users\muhin\Downloads\MedClinic_01\MedClinic\obj\Debug\MedClinic.csproj.GenerateResource.cache
+C:\Users\muhin\Downloads\MedClinic_01\MedClinic\obj\Debug\MedClinic.csproj.CoreCompileInputs.cache
+C:\Users\muhin\Downloads\MedClinic_01\MedClinic\obj\Debug\MedClinic.exe
+C:\Users\muhin\Downloads\MedClinic_01\MedClinic\obj\Debug\MedClinic.pdb
+C:\Users\eisze\Downloads\Telegram Desktop\MedClinic_01\MedClinic\bin\Debug\MedClinic.exe.config
+C:\Users\eisze\Downloads\Telegram Desktop\MedClinic_01\MedClinic\bin\Debug\MedClinic.exe
+C:\Users\eisze\Downloads\Telegram Desktop\MedClinic_01\MedClinic\bin\Debug\MedClinic.pdb
+C:\Users\eisze\Downloads\Telegram Desktop\MedClinic_01\MedClinic\obj\Debug\MedClinic.csprojAssemblyReference.cache
+C:\Users\eisze\Downloads\Telegram Desktop\MedClinic_01\MedClinic\obj\Debug\MainWindow.g.cs
+C:\Users\eisze\Downloads\Telegram Desktop\MedClinic_01\MedClinic\obj\Debug\Win\Pages\Appointment.g.cs
+C:\Users\eisze\Downloads\Telegram Desktop\MedClinic_01\MedClinic\obj\Debug\Win\Pages\DocSchedule.g.cs
+C:\Users\eisze\Downloads\Telegram Desktop\MedClinic_01\MedClinic\obj\Debug\Win\RegDesk.g.cs
+C:\Users\eisze\Downloads\Telegram Desktop\MedClinic_01\MedClinic\obj\Debug\App.g.cs
+C:\Users\eisze\Downloads\Telegram Desktop\MedClinic_01\MedClinic\obj\Debug\MedClinic_MarkupCompile.cache
+C:\Users\eisze\Downloads\Telegram Desktop\MedClinic_01\MedClinic\obj\Debug\MedClinic_MarkupCompile.lref
+C:\Users\eisze\Downloads\Telegram Desktop\MedClinic_01\MedClinic\obj\Debug\MainWindow.baml
+C:\Users\eisze\Downloads\Telegram Desktop\MedClinic_01\MedClinic\obj\Debug\Win\Pages\Appointment.baml
+C:\Users\eisze\Downloads\Telegram Desktop\MedClinic_01\MedClinic\obj\Debug\Win\Pages\DocSchedule.baml
+C:\Users\eisze\Downloads\Telegram Desktop\MedClinic_01\MedClinic\obj\Debug\Win\RegDesk.baml
+C:\Users\eisze\Downloads\Telegram Desktop\MedClinic_01\MedClinic\obj\Debug\MedClinic.g.resources
+C:\Users\eisze\Downloads\Telegram Desktop\MedClinic_01\MedClinic\obj\Debug\MedClinic.Properties.Resources.resources
+C:\Users\eisze\Downloads\Telegram Desktop\MedClinic_01\MedClinic\obj\Debug\MedClinic.csproj.GenerateResource.cache
+C:\Users\eisze\Downloads\Telegram Desktop\MedClinic_01\MedClinic\obj\Debug\MedClinic.csproj.CoreCompileInputs.cache
+C:\Users\eisze\Downloads\Telegram Desktop\MedClinic_01\MedClinic\obj\Debug\MedClinic.exe
+C:\Users\eisze\Downloads\Telegram Desktop\MedClinic_01\MedClinic\obj\Debug\MedClinic.pdb
+C:\Users\eisze\Downloads\Telegram Desktop\MedClinic_01\MedClinic\obj\Debug\Win\Pages\PatientList.g.cs
+C:\Users\eisze\Downloads\Telegram Desktop\MedClinic_01\MedClinic\obj\Debug\Win\Pages\PatientList.baml
+C:\Users\eisze\Downloads\Telegram Desktop\MedClinic_01\MedClinic\obj\Debug\Win\AppointEdit.g.cs
+C:\Users\eisze\Downloads\Telegram Desktop\MedClinic_01\MedClinic\obj\Debug\Win\AppointEdit.baml

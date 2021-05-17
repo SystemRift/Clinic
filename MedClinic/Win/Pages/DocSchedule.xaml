@@ -1,0 +1,43 @@
+﻿<Page x:Class="MedClinic.Win.Pages.DocSchedule"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MedClinic.Win.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="800" d:DesignWidth="1120"
+      Title="DocSchedule">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <!--Design-->
+
+        <Rectangle Fill="White" Grid.ColumnSpan="10" Grid.RowSpan="7"/>
+        <Image Source="/Pics/0001450-doctors-schedule.png" Grid.ColumnSpan="8" Margin="0,-30,0,84" Grid.RowSpan="7" Grid.Column="2" />
+        <Button x:Name="AppointBtn" Grid.Column="7" Margin="0,0,0,45" Grid.Row="6" Grid.ColumnSpan="2"
+                BorderThickness="0" Background="CadetBlue"
+                FontSize="15" Foreground="White"
+                Content="Make an appoimtment" Click="AppointBtn_Click"/>
+    </Grid>
+</Page>
